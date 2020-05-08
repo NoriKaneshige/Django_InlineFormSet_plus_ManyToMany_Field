@@ -203,8 +203,3 @@ class TagAdmin(admin.ModelAdmin):
 
 admin.site.register(Tag, TagAdmin)
 ```
-
-> ## post_form.html
-``` python
-
-```
